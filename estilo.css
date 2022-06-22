@@ -1,0 +1,34 @@
+body {
+    background:url(img/foot.jpg.jpg);
+    background-repeat:no-repeat;
+    
+ }
+p {
+    display: flex;
+    margin: 60px;
+    color:azure;
+    align-items: center;   
+}
+p2 {
+    display: flex;
+    margin: 60px;
+    color:azure;
+    align-items: center;   
+}
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    object-fit: cover;
+}
+.secciones {
+    display: flex;
+    align-items: center;
+    padding: 40px;
+}
+h1 {
+    display: flex;
+    margin: 60px;
+    color:azure;
+    align-items: center;
+}
